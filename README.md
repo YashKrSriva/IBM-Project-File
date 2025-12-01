@@ -1,3 +1,3 @@
 # IBM-Project-File
-> Space Missions EDA Project file
-> Satellite Collision Risk Predictor ML Project
+* Space Missions EDA Project file
+* Satellite Collision Risk Predictor ML Project
